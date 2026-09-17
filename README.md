@@ -47,27 +47,26 @@ ML / RL     ██████████████████ 50%    (CatBo
 
 ---
 
-## 🎬 A Day in My Lab / 我的日常（九宫格小剧场）
+## 🎬 A Day in My Lab / 我的日常
 
-> 这是用 **GPT-Image-2.5** 生成的一组小漫画，讲的是我（戴眼镜的小蓝）从起床到上线的普通一天，也是我 GitHub 项目的缩影。
+> 这组 9 张海报用 **GPT-Image-2.5** 生成，从清晨的第一杯咖啡到深夜的上线庆祝，也是我 GitHub 项目的缩影。
+> A set of 9 minimalist posters generated with GPT-Image-2.5 — from morning coffee to shipping at night. A visual day in my lab.
 
 <p align="center">
-  <img src="assets/story/01_wake.jpg" width="31%" alt="wake up" />
-  <img src="assets/story/02_coffee.jpg" width="31%" alt="coffee" />
-  <img src="assets/story/03_whiteboard.jpg" width="31%" alt="whiteboard" />
-  <img src="assets/story/04_poly.jpg" width="31%" alt="prediction markets" />
-  <img src="assets/story/05_cat.jpg" width="31%" alt="cat + neural" />
-  <img src="assets/story/06_money.jpg" width="31%" alt="money up" />
-  <img src="assets/story/07_deploy.jpg" width="31%" alt="deploy" />
-  <img src="assets/story/08_dj.jpg" width="31%" alt="dj" />
-  <img src="assets/story/09_fun.jpg" width="31%" alt="fun" />
+  <img src="assets/poster/01_wake.jpg" width="31%" alt="wake up" />
+  <img src="assets/poster/02_coffee.jpg" width="31%" alt="coffee" />
+  <img src="assets/poster/03_strategy.jpg" width="31%" alt="strategy" />
+  <img src="assets/poster/04_market.jpg" width="31%" alt="market" />
+  <img src="assets/poster/05_model.jpg" width="31%" alt="model" />
+  <img src="assets/poster/06_growth.jpg" width="31%" alt="growth" />
+  <img src="assets/poster/07_deploy.jpg" width="31%" alt="deploy" />
+  <img src="assets/poster/08_sound.jpg" width="31%" alt="sound" />
+  <img src="assets/poster/09_celebration.jpg" width="31%" alt="celebration" />
 </p>
 
 <p align="center">
-  ☕ 起床 → 🚀 咖啡 → 🧠 策略 → 🔮 预测市场 → 🤖 AI 模型 → 📈 看收益 → 🚀 上线 → 🎧 摸鱼 → 🎉 又是充实的一天
+  ☕ Coffee → 🧠 Strategy → 🔮 Market → 🤖 Model → 📈 Growth → 🚀 Deploy → 🎧 Sound → 🎉 Celebrate
 </p>
-
----
 
 ## 📌 Featured Projects / 精选项目
 
