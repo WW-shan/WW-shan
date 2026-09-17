@@ -49,23 +49,23 @@ ML / RL     ██████████████████ 50%    (CatBo
 
 ## 🎬 A Day in My Lab / 我的日常
 
-> 这组 9 张海报用 **GPT-Image-2.5** 生成，从清晨的第一杯咖啡到深夜的上线庆祝，也是我 GitHub 项目的缩影。
-> A set of 9 minimalist posters generated with GPT-Image-2.5 — from morning coffee to shipping at night. A visual day in my lab.
+> 同一张 3×3 分镜海报切成 9 格：同一个我，从黎明到深夜的一天，窗外天色同步变化。
+> One 3x3 cinematic storyboard, split into 9 panels — the same me, from dawn to night, and the sky outside follows along.
 
 <p align="center">
-  <img src="assets/poster/01_wake.jpg" width="31%" alt="wake up" />
-  <img src="assets/poster/02_coffee.jpg" width="31%" alt="coffee" />
-  <img src="assets/poster/03_strategy.jpg" width="31%" alt="strategy" />
-  <img src="assets/poster/04_market.jpg" width="31%" alt="market" />
-  <img src="assets/poster/05_model.jpg" width="31%" alt="model" />
-  <img src="assets/poster/06_growth.jpg" width="31%" alt="growth" />
-  <img src="assets/poster/07_deploy.jpg" width="31%" alt="deploy" />
-  <img src="assets/poster/08_sound.jpg" width="31%" alt="sound" />
-  <img src="assets/poster/09_celebration.jpg" width="31%" alt="celebration" />
+  <img src="assets/day/01_dawn.jpg" width="31%" alt="dawn coffee" />
+  <img src="assets/day/02_whiteboard.jpg" width="31%" alt="whiteboard strategy" />
+  <img src="assets/day/03_market.jpg" width="31%" alt="market data" />
+  <img src="assets/day/04_model.jpg" width="31%" alt="neural model" />
+  <img src="assets/day/05_backtest.jpg" width="31%" alt="backtest" />
+  <img src="assets/day/06_deploy.jpg" width="31%" alt="deploy" />
+  <img src="assets/day/07_phone.jpg" width="31%" alt="check phone" />
+  <img src="assets/day/08_docs.jpg" width="31%" alt="write docs" />
+  <img src="assets/day/09_night.jpg" width="31%" alt="celebrate at night" />
 </p>
 
 <p align="center">
-  ☕ Coffee → 🧠 Strategy → 🔮 Market → 🤖 Model → 📈 Growth → 🚀 Deploy → 🎧 Sound → 🎉 Celebrate
+  🌅 起床 → 📋 策略 → 🔮 看数据 → 🧠 模型 → 📈 回测 → 🚀 上线 → 📱 摸鱼 → 📝 写文档 → 🎆 庆祝
 </p>
 
 ## 📌 Featured Projects / 精选项目
@@ -116,11 +116,11 @@ ML / RL     ██████████████████ 50%    (CatBo
 
 ## 📬 Contact / 联系我
 
-- 💬 **QQ：212500581**（备注 GitHub 就好）
+- 📧 **212500581@qq.com**
 - 🐙 GitHub: [WW-shan](https://github.com/WW-shan)
 - 🚀 想一起做量化/AI 研究，或者有实习机会？随时找我聊！
 
-> Wanna collaborate on quant/AI research or know an internship? Let's chat 👋
+> Wanna collaborate on quant/AI research or know an internship? Drop me an email 👋
 
 ---
 
