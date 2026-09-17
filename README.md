@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner-wide.jpg" alt="Abstract market data and research systems" width="100%" />
-</p>
-
 <h1 align="center">WW</h1>
 
 <p align="center">
